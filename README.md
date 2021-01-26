@@ -11,8 +11,8 @@ $ git clone https://github.com/jiachengqi/thesis_project.git
 ## import project
 
 ```
-$ git clone https://github.com/jiachengqi/springboot.git
-$ cd webapp/server
+
+$ cd backend
 
 import project with intellij
 ```
@@ -28,8 +28,7 @@ import project with intellij
 ## import project
 
 ```
-$ git clone https://github.com/jiachengqi/springboot.git
-$ cd arduino/4
+$ cd arduino
 
 open project with ArduinoIDE
 
@@ -37,6 +36,14 @@ each folder is a file with same implemetation but unique UUID for BLE services a
 ```
 
 # frontend
+
+## import project
+
+```
+$ cd frontend/client
+
+
+```
 
 ## Project setup
 
@@ -59,7 +66,7 @@ https://github.com/Jasonchenlijian/FastBle.git
 ## import project
 
 ```
-$ git clone https://github.com/jiachengqi/android_app_low_version.git
+$ cd android_app
 
 
 import project with Android Studio
