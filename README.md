@@ -2,8 +2,6 @@
 
 ```
 $ git clone https://github.com/jiachengqi/thesis_project.git
-
-
 ```
 
 # backend
@@ -11,7 +9,6 @@ $ git clone https://github.com/jiachengqi/thesis_project.git
 ## import project
 
 ```
-
 $ cd backend
 
 import project with intellij
@@ -41,8 +38,6 @@ each folder is a file with same implemetation but unique UUID for BLE services a
 
 ```
 $ cd frontend/client
-
-
 ```
 
 ## Project setup
