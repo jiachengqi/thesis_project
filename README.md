@@ -1,3 +1,11 @@
+## download project
+
+```
+$ git clone https://github.com/jiachengqi/thesis_project.git
+
+
+```
+
 # backend
 
 ## import project
